@@ -1,4 +1,5 @@
 // code by savir singh
+// A - Swap Odd and Even
 
 #include <bits/stdc++.h>
 using namespace std;
