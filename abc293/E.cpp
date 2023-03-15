@@ -1,4 +1,5 @@
 // code by savir singh
+// E - Geometric Progression
 
 #include <bits/stdc++.h>
 using namespace std;
