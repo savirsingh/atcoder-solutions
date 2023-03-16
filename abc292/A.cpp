@@ -1,4 +1,5 @@
 // code by savir singh
+// A - CAPS LOCK
 
 #include <bits/stdc++.h>
 using namespace std;
