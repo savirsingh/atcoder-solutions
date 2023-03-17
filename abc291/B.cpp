@@ -1,4 +1,5 @@
 // code by savir singh
+// B - Trimmed Mean
 
 #include <bits/stdc++.h>
 using namespace std;
