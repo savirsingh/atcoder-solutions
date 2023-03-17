@@ -1,4 +1,5 @@
 // code by savir singh
+// A - camel Case
 
 #include <bits/stdc++.h>
 using namespace std;
