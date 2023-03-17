@@ -38,7 +38,6 @@ int32_t main() {
         cin >> u >> v;
         adj[u].push_back(v);
     }
-    int ans = 0;
     for (int i = 1; i <= n; i++) bfs(i);
     cout << reachable - m << endl;
 }
